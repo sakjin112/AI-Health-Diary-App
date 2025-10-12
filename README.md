@@ -1273,7 +1273,6 @@ SOFTWARE.
 - **Docker Images**: 3 (frontend, backend, database)
 - **API Endpoints**: 12
 - **Database Tables**: 4
-- **Development Time**: 6 weeks
 - **Technologies Used**: 15+
 
 ---
