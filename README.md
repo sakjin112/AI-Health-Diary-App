@@ -1260,7 +1260,7 @@ SOFTWARE.
 
 - **Developer**: Sakhi Jindal
 - **Email**: sakhi.jindal@gmail.com
-- **Resume**: https://www.canva.com/design/DAG04MyLRnA/z0I1v3gwHZ8YuT7RDww6HQ/edit?utm_content=DAG04MyLRnA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- **Resume**: [View PDF](https://drive.google.com/file/d/1VnoQGZVVzR6Ff62xQKMPtF9kxw68RP6R/view?usp=sharing)
 ---
 
 ## 📊 Project Statistics
