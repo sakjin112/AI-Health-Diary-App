@@ -1261,6 +1261,7 @@ SOFTWARE.
 - **Developer**: Sakhi Jindal
 - **Email**: sakhi.jindal@gmail.com
 - **Resume**: [View PDF](https://drive.google.com/file/d/1VnoQGZVVzR6Ff62xQKMPtF9kxw68RP6R/view?usp=sharing)
+- **GitHub**: [@sakjin112](https://github.com/sakjin112)
 ---
 
 ## 📊 Project Statistics
