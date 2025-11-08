@@ -1,12 +1,14 @@
 # 🧠 AI-Powered Health Analytics Platform
 
 > A sophisticated full-stack application designed to help individuals and families track, analyze, and understand chronic health patterns using artificial intelligence and statistical analysis.
-🧠 AI-Powered Health Analytics Platform
+🧠 AI-Powered Health Analytics Platform.
 
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Automated-brightgreen?style=flat-square)
 [![Docker](https://img.shields.io/badge/docker-ready-blue)](https://hub.docker.com/r/sakjin/health-diary)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 🚀 Live Demo
+**Visit:** [healthdiaryonline.com](https://healthdiaryonline.com)
 ---
 
 ## 📋 Table of Contents
