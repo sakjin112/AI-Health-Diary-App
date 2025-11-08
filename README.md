@@ -1261,7 +1261,7 @@ SOFTWARE.
 ## 📧 Contact & Support
 
 - **Developer**: Sakhi Jindal
-- **Resume**: [View PDF]()
+- **Resume**: [View PDF](https://drive.google.com/file/d/1QzpWVp-5xt6N5awsiHIAKkgF2S-0C1BV/view?usp=sharing)
 - **GitHub**: [@sakjin112](https://github.com/sakjin112)
 ---
 
