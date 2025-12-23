@@ -52,6 +52,8 @@ services:
       - JWT_SECRET_KEY=56dafsad324fsafas789fadgafa
       - FLASK_PORT=5000
       - FLASK_DEBUG=false
+      - GUNICORN_WORKERS=1
+      - GUNICORN_TIMEOUT=120 
     depends_on:
       - db
 
