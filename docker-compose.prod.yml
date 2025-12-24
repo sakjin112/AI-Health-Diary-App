@@ -40,9 +40,9 @@ services:
       - backend
 
   backend:
-    # build:
-    #   context: ./server
-    #   dockerfile: Dockerfile.prod
+    build:
+     context: ./server
+     dockerfile: Dockerfile.prod
     image: sakjin/health-diary:latest
     ports:
       - "5000:5000"
